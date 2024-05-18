@@ -1,0 +1,23 @@
+{
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nurbolot0225/JavaScript-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nurbolot0225/JavaScript-Testing/issues"
+  },
+  "homepage": "https://github.com/Nurbolot0225/JavaScript-Testing#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
